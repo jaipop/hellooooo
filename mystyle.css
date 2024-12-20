@@ -1,0 +1,19 @@
+body {
+	background-image: url("res/bgsea.jpg");
+	}
+@font-face {
+	font-family: Simple;
+	src: url(fonts/Simple-Regular.ttf);
+	}
+div {
+  background-image: url("res/sky.jpg");
+  width: 600px;
+  border: 15px pastel blue;
+  padding: 50px;
+  margin: 20px;
+  text-align: center;
+  font-size: 35px;
+  font-family: Simple;
+  place-self: center;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
